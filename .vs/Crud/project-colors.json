@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c5875dd-2dce-4995-9998-4d8e86905771": {
+      "ProjectGuid": "1c5875dd-2dce-4995-9998-4d8e86905771",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "235ac19a-69b8-46d5-9536-c39b10c21515": {
+      "ProjectGuid": "235ac19a-69b8-46d5-9536-c39b10c21515",
+      "DisplayName": "Application",
+      "ColorIndex": 1
+    },
+    "d4511df0-30cc-471c-9a76-5fb79bf02f54": {
+      "ProjectGuid": "d4511df0-30cc-471c-9a76-5fb79bf02f54",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "63eca7a5-4db8-43ac-9be6-58a31437120d": {
+      "ProjectGuid": "63eca7a5-4db8-43ac-9be6-58a31437120d",
+      "DisplayName": "Crud",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
